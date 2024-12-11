@@ -144,7 +144,7 @@ dependencies:
   - mysql-libs=8.0.32=h54cf53e_0
   - natsort=8.4.0=pyhd8ed1ab_0
   - ncbi-vdb=3.1.1=h9948957_3
-  - ncls=0.0.64=py38hbff2b2d_1
+  - ncls>=0.0.64=py38hbff2b2d_1
   - ncurses=6.5=he02047a_1
   - networkx=2.6.3=pyhd8ed1ab_1
   - nspr=4.36=h5888daf_0
